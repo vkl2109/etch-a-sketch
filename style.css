@@ -56,3 +56,7 @@
     background: black;
     transition: 0s;
 }
+.column:active {
+    background: black;
+    transition: 0s;
+}
